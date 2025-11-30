@@ -21,3 +21,5 @@ JWT_EXPIRES_IN=1h
 
 Ejecutar el Servidor:En la termina GIt Bash
 npm run dev
+
+Si todo sale bien, la consola dira: "Conexión establecida correctamente
